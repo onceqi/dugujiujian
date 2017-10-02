@@ -3,8 +3,8 @@ package dugujiujian;
 public class Dugu {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String say = "Hello .......";
+		System.out.println(say);
 	}
 
 }
